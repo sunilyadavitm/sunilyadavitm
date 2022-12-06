@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunilyadavitm&label=Profile%20views&color=0e75b6&style=flat" alt="sunilyadavitm" /> </p>
 
-- 🌱 I’m currently learning **B.tech**
+👨‍💻 I’m currently learning **B.tech** 👨‍💻
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
