@@ -77,7 +77,7 @@
 #### Tools
 ![Git](https://img.shields.io/badge/-Git-000?style=for-the-badge&logo=git) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 
-</hr>
+<hr>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunilyadavitm&show_icons=true&locale=en&layout=compact" alt="sunilyadavitm" /></p>
 
