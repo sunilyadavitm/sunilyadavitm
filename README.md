@@ -1,4 +1,4 @@
-![logo](hiii.png.jpeg)
+<!-- ![logo](hiii.png.jpeg) -->
 <h1 align="center">Hii 👋, I'm Sunil Yadav</h1>
 <h3 align="center">Web Application & Full Stack Developer</h3>
 
